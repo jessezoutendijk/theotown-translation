@@ -1955,22 +1955,22 @@ Cons: Less challenges</string>
     <string name="shader_invert">Inverted</string>
 
 
-    <string name="draft_present_notification00_text">Gift from Santa gives you an explosion.</string>
-    <string name="draft_present_notification01_text">Gift from Santa rewards you with few diamonds.</string>
+    <string name="draft_present_notification00_text">Het kado van de kerstman is een ontploffing.</string>
+    <string name="draft_present_notification01_text">Het kado van de kerstman geeft je meerdere diamanten.</string>
     <string name="store_authorby">by %s</string>
     <string name="store_downloads">%,d downloads</string>
     <string name="store_acquire">Download</string>
     <string name="store_downlaod">Download</string>
     <string name="store_downloaded">Downloaded</string>
     <string name="dialog_storedownlaod_title">Download</string>
-    <string name="dialog_storedownload_text">Do you want to download %s?</string>
-    <string name="dialog_storerestart_title">Restart</string>
+    <string name="dialog_storedownload_text">Wil je dit downloaden %s?</string>
+    <string name="dialog_storerestart_title">Herstarten</string>
     <string name="dialog_storerestart_text">Changes to plugins require to restart the game.\n\nDo you want to restart it now?</string>
-    <string name="dialog_storerestart_cmdrestart">Restart</string>
-    <string name="store_status_notacquired">Not acquired</string>
-    <string name="store_status_downloading">Downloading</string>
+    <string name="dialog_storerestart_cmdrestart">Herstart</string>
+    <string name="store_status_notacquired">Niet verkregen</string>
+    <string name="store_status_downloading">Downloaden</string>
     <string name="store_status_downloaderror">Error: </string>
-    <string name="store_status_acquired">Acquired</string>
+    <string name="store_status_acquired">Verkregen</string>
     <string name="store_status_newlyinstalled">Newly installed</string>
     <string name="store_status_running">Running</string>
     <string name="store_status_notrunning">Not running</string>
@@ -1999,25 +1999,25 @@ Cons: Less challenges</string>
     <string name="store_featured">Featured</string>
 
 
-    <string name="dialog_storereport_title">Report plugin</string>
-    <string name="dialog_storereport_text">Please specify a reason below on why you want to report \"%s\":</string>
-    <string name="dialog_storereport_cmdreport">Report</string>
-    <string name="dialog_storereported_title">Plugin reported</string>
-    <string name="dialog_storereported_text">Thank you for your feedback! We will review this plugin and take proper actions.</string>
+    <string name="dialog_storereport_title">Plugin raporteren</string>
+    <string name="dialog_storereport_text">Specificeer alstublieft waarom u deze plugin wilt rapporteren \"%s\":</string>
+    <string name="dialog_storereport_cmdreport">Raporteren</string>
+    <string name="dialog_storereported_title">Plugin geraporteerd</string>
+    <string name="dialog_storereported_text">Bedankt voor je feedback! We zullen naar deze plugin kijken en actie nemen.</string>
 
 
     <string name="store_ratings">by %,d ratings</string>
     <string name="store_loadingerror">Error</string>
-    <string name="dialog_storeerror_title">Loading error</string>
-    <string name="dialog_storeerror_text">This plugin could not be loaded for the following reason:</string>
-    <string name="store_new">New and Updated</string>
+    <string name="dialog_storeerror_title">Laad error</string>
+    <string name="dialog_storeerror_text">Deze plugin kan voor de volgende reden niet worden geladen:</string>
+    <string name="store_new">Nieuw en geüpdate</string>
     <string name="draft_cat_plugins00_title">Plugins</string>
-    <string name="dialog_storesearch_title">Search plugin</string>
-    <string name="dialog_storesearch_text">Enter a keyword below:</string>
-    <string name="dialog_storesearch_cmdsearch">Search</string>
+    <string name="dialog_storesearch_title">Zoek voor plugin</string>
+    <string name="dialog_storesearch_text">Voeg een zoekterm toe:</string>
+    <string name="dialog_storesearch_cmdsearch">Zoek</string>
 
 
-    <string name="draft_deco_chr_santashouse00_title">Santa\'s House</string>
-    <string name="draft_deco_chr_santashouse00_text">Santa uses it as a base to distribute presents.</string>
+    <string name="draft_deco_chr_santashouse00_title">Huis van de kerstman</string>
+    <string name="draft_deco_chr_santashouse00_text">De kerstman gebruikt dit als zijn basis om kadotje\'s rond te brengen.</string>
 
 </resources>
